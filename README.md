@@ -1,6 +1,7 @@
 # osTicket Ticket Lifecycle Lab
 
-![osTicket Lab Banner](images/osTicket-banner.png)
+ ![osTicket Lab Banner](images/osTicket-banner.png)
+
 
 ---
 
