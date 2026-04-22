@@ -181,11 +181,3 @@ The issue is resolved by:
 This lab demonstrates a **complete ticket lifecycle in osTicket**, reinforcing skills in **ticket intake, triage, escalation, documentation, and closure**.  
 
 It provides hands-on experience essential for **entry-level IT support and service desk professionals**.
-
----
-
-## 👤 Author
-
-**Gokah William**  
-IT & Service Desk Professional  
-Focused on Help Desk Operations, Ticket Management, and Entry-Level IT Support
